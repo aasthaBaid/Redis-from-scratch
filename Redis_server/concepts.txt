@@ -1,0 +1,18 @@
+1. tcp/ip and socket prog. - connect to the client
+2. concurrency and multithreading - multiple clients
+3. mutex and synchronization - safe access and shared resources
+4. data structures -> hashtables ,  vectors 
+5. parsing and RESP protocol 
+6. file i/o persistence 
+7. signal handling
+8. command processing and response formatting
+9. singleton pattern - one instance of database
+10. bitwie operators '|='
+11. std::
+
+
+
+RedisServer class
+RedisDatabase class
+RedisCommandHandler class
+

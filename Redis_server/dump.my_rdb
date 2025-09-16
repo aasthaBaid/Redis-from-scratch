@@ -1,0 +1,9 @@
+K session:1 "data"
+K car bmw
+K name alice
+K mynewlist 2
+L mylist "newval" b" "c" "x" 23456
+H user:200 city Berlin age 25 name Bob
+H 
+H mynewlist
+H user:100
